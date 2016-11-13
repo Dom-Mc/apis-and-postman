@@ -17,7 +17,7 @@ The first thing we want to do is install a couple of tools to make our lives a l
 
 [Postman](https://www.getpostman.com/) is a Chrome app that we can use to easily make API requests. Check out the docs and install the app from [here](https://www.getpostman.com/docs/).
 
-[JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) is a Chrome extension that will automatically make JSON data much more readable in Chrome.
+[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) is a Chrome extension that will automatically make JSON data much more readable in Chrome.
 
 ### Foursquare Venue API
 
@@ -133,3 +133,5 @@ We've looked at consuming an API with Postman, using an application Client ID/Se
 Spend some time poking around the Foursquare API documentation and use Postman to try out the various endpoints.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/apis-and-postman'>APIs And Postman</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/apis-and-postman'>APIs And Postman</a> on Learn.co and start learning to code for free.</p>
